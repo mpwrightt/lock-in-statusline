@@ -1,6 +1,6 @@
-# Lock-in Statusline
+# Zelda Statusline
 
-A cyberpunk-themed command line statusline that displays motivational messages and system information with a retro-futuristic aesthetic.
+A Zelda-themed command line statusline that displays motivational messages and system information with a fantasy aesthetic.
 
 ## Features
 
